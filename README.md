@@ -1,1 +1,1 @@
-I've been working in web development since 2011 and started as a front-end JavaScript developer. Since 2016 I'm focused on building serverless applications like [MoonMail](https://moonmail.io/) and [MONEI](https://monei.net/) inside AWS infrastructure.
+I've been working in web development since 2011 and started as a front-end JavaScript developer. Since 2016 I'm focused on building serverless payment gateway - [MONEI](https://monei.net/) inside AWS infrastructure.
